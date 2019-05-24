@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test on Hugo Techdoc Theme</title>
-    <link>https://thingsym.github.io/deploy-doc/test/</link>
+    <link>https://thingsym.github.io/test/test/</link>
     <description>Recent content in test on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 12:00:45 +0000</lastBuildDate>
     
-	<atom:link href="https://thingsym.github.io/deploy-doc/test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thingsym.github.io/test/test/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
